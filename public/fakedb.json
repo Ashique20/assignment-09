@@ -1,0 +1,44 @@
+[
+    {
+        "name":"Sumon",
+        "img":"https://www.daily-sun.com/assets/news_images/2021/08/10/Dailysu-5-10-08-2021.jpg",
+        "review":"Nothing to say,Satisfied Enough!",
+        "rate":"5/5"
+        
+    },
+    {
+        "name":"Rafa",
+        "img":"https://i1.sndcdn.com/artworks-000087435039-svuapa-t500x500.jpg",
+        "review":"Product er sound quality khub eee bhalo",
+        "rate":"4/5"
+        
+    },
+     {
+        "name":"Zohad",
+        "img":"https://icetoday.net/wp-content/uploads/2016/05/Zohad-Reza-Chowdhury-01-900x505.jpg",
+        "review":"I loved the color,But maybe a little sound Problem",
+        "rate":"4/5"
+        
+    },
+    {
+        "name":"Lincon",
+        "img":"https://i.ytimg.com/vi/j1N8H7hWBN0/hqdefault.jpg",
+        "review":"Thank You so much for the such a smart Headphone,I loved it!",
+        "rate":"5/5"
+        
+    },
+    {
+        "name":"Tuhin",
+        "img":"https://everipedia-storage.s3.amazonaws.com/ProfilePicture/en/Tanzir_Tuhin__a3cf0b/Tanzir_Tuhin_%2528cropped%2529.jpg__92585.jpeg",
+        "review":"Apperecite the design..Also sounds so soft",
+        "rate":"4/5"
+        
+    },
+    {
+        "name":"Popeye",
+        "img":"https://i.scdn.co/image/ab6761610000e5eb3feabc8d5492e175e8816464",
+        "review":"I really loved the sound quality.Also loved the  color",
+        "rate":"5/5"
+        
+    }
+]

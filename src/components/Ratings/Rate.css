@@ -1,0 +1,32 @@
+.start{
+    display: flex;
+    justify-content: space-between;
+    margin-left: 60px;
+    
+}
+.start img{
+    width: 600px;
+    height: 600px;
+    margin-left: 200px;
+
+}
+.detail{
+    margin-top: 100px;
+   
+}
+.detail h1{
+    font-size:40px;
+}
+.start button{
+    width: 140px;
+    height: 35px;
+  background-color: rgb(255, 192, 224);
+   border: none;
+   margin-top: 30px;
+}
+.Rate-Color{
+    background-color: rgb(255, 255, 255);
+}
+.text{
+    -webkit-text-fill-color: rgb(200, 166, 166);
+}
